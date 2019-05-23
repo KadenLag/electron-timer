@@ -9,10 +9,10 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@types/node@^7.0.18":
-  version "7.10.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-7.10.5.tgz#6831006b2c87441d69e79b37ae9bc03246dfb379"
-  integrity sha512-RYkagUUbxQBss46ElbEa+j4q4X3GR12QwB7a/PM5hmVuVkYoW1jENT1+taspKUv8ibwW8cw+kRFbOaTc/Key3w==
+"@types/node@^8.0.24":
+  version "8.10.48"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.48.tgz#e385073561643a9ba6199a1985ffc03530f90781"
+  integrity sha512-c35YEBTkL4rzXY2ucpSKy+UYHjUBIIkuJbWYbsGIrKLEWU5dgJMmLkkIb3qeC3O3Tpb1ZQCwecscvJTDjDjkRw==
 
 abbrev@1:
   version "1.1.1"
@@ -1717,12 +1717,12 @@ electron-localshortcut@^1.1.1:
   dependencies:
     electron-is-accelerator "^0.1.0"
 
-electron@~1.6.2:
-  version "1.6.18"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-1.6.18.tgz#e6eb0f18ebe712a4b00cb7ac466c25406e6bba15"
-  integrity sha512-tXqy/+2HyvS3N8FEg3cP408DbkvvUV0/a1RyjQkfTUJeYtSMt3yTGZDO55tUaN1tk0fvhZ3ZOZNnMEWEApLDsQ==
+electron@~1.8.8:
+  version "1.8.8"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-1.8.8.tgz#a90cddb075291f49576993e6f5c8bb4439301cae"
+  integrity sha512-1f9zJehcTTGjrkb06o6ds+gsRq6SYhZJyxOk6zIWjRH8hVy03y/RzUDELzNas71f5vcvXmfGVvyjeEsadDI8tg==
   dependencies:
-    "@types/node" "^7.0.18"
+    "@types/node" "^8.0.24"
     electron-download "^3.0.1"
     extract-zip "^1.0.3"
 
